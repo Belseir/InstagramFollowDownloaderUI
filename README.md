@@ -1,4 +1,4 @@
-# InstagramFollowDownloaderUI
+# Instagram Follow Downloader UI
 Program that downloads followers/followees from Instagram account into an excel sheet.
 
 Steps to download followers/followees:
